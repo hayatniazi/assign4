@@ -1,0 +1,25 @@
+.bulb{
+    height: 100vh;
+    color: red;
+}
+
+.on{
+    background-color: white;
+    
+}
+
+.off{
+background-color: black;
+}
+.b{
+    
+    font-family: Impact, Charcoal, sans-serif;
+border: 1px solid black;
+
+  margin-left: 80px;
+
+}
+h1{
+    text-align: center;
+    background-color: violet;
+}
