@@ -44,7 +44,7 @@ console.log(status);
     <button onClick={incTemp}>Temperature +</button>
     <button onClick={decTemp}>Temperature -</button>
     <p>Temperature is : {gettemp} degree</p>
-    Temperature is {gettemp>23?"Hot today":"Weather is awesome..!"}
+    {gettemp>23?"Hot today":"Weather is awesome..!"}
     
     </div>
     );
